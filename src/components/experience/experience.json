@@ -1,0 +1,61 @@
+[
+  {
+    "duration": "October 2022 — present",
+    "title": "Fullstack Web Developer",
+    "company": "RSUD Kota Tangerang",
+    "description": "Lead the development and ongoing maintenance of the hospital's website and internal applications. Collaborate with the IT team to implement and promote best practices in web development.",
+    "link": "https://rsud.tangerangkota.go.id/",
+    "technologies": [
+      "PHP",
+      "jQuery",
+      "Codeigniter",
+      "Laravel",
+      "React",
+      "CI/CD"
+    ]
+  },
+  {
+    "duration": "December 2021 — June 2022",
+    "title": "Fullstack Developer",
+    "company": "LokusWp",
+    "description": "Oversee the development and upkeep of the company's website. Manage and maintain WordPress product plugins, including LWDonation, LWCommerce, and the core LokusWP plugin. Additionally, develop a customer license management system to facilitate plugin purchases. Implement best practices in WordPress and PHP development to ensure a high-quality and secure product ecosystem",
+    "link": "https://lokuswp.id/",
+    "technologies": [
+      "PHP",
+      "WordPress",
+      "jQuery",
+      "Typescript",
+      "NodeJS",
+      "Expressjs",
+      "AWS Lambda",
+      "AWS Serverless",
+      "AWS DynamoDB"
+    ]
+  },
+  {
+    "duration": "March 2021 — December 2021",
+    "title": "Fullstack Developer",
+    "company": "LSD",
+    "description": "Ensure the ongoing functionality and security of the company's website. Develop a WordPress plugin, LSDDonation, to enhance the company's product functionalities. Implement best practices in WordPress and PHP development to guarantee a high-quality and secure user experience.",
+    "link": "https://lsdplugins.com/",
+    "technologies": [
+      "PHP",
+      "WordPress",
+      "jQuery",
+      "NodeJS",
+      "Expressjs",
+      "CI/CD"
+    ]
+  },
+  {
+    "duration": "June 2020 — March 2021",
+    "title": "FREELANCER Web Developer",
+    "description": "Lead the development and ongoing maintenance of the client's website, while actively expanding my skillset through the exploration of new technologies.",
+    "technologies": [
+      "PHP",
+      "Codeigniter",
+      "JavaScript",
+      "jQuery"
+    ]
+  }
+]

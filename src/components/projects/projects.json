@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Hospital Information System (SIMRS)",
+    "description": "Hospital Information System (SIMRS) is an application used to manage patient, doctor, cemical drug and other data in hospitals.",
+    "image": "/projects/simrs.png"
+  },
+  {
+    "title": "Employee Management System",
+    "description": "The Employee Management System is an application used to manage employee data, attendance, payroll, recap personnel data, and so on.",
+    "image": "/projects/kepegawaian.png"
+  },
+  {
+    "title": "MCU (Medical Check Up)",
+    "description": "The MCU (Medical Check Up) system is an application used to manage data on patients, doctors, examination results, and so on.",
+    "image": "/projects/sbs.png",
+    "link": "https://sbsbisa.com"
+  },
+  {
+    "title": "Sistem Assasment Pegawai PT. Dua Benua",
+    "description": "PT. Dua Benua Employee Assessment System is an application used to assess employee performance, provide recommendations for promotions, and so on.",
+    "image": "/projects/duabenua.png"
+  },
+  {
+    "title": "E-Mountaineering",
+    "description": "E-Mountaineering is an application used to manage mountain climbing data, provide information about mountains, and so on.",
+    "image": "/projects/emountaineering.png"
+  },
+  {
+    "title": "LENS (Lecturer Evaluation System)",
+    "description": "LENS (Lecturer Evaluation System) is an application used to evaluate lecturer performance, provide recommendations for promotion, and so on.",
+    "image": "/projects/lens.png",
+    "link": "https://lens.alphabetincubator.id"
+  }
+]
