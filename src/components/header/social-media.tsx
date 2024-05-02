@@ -28,7 +28,7 @@ const SocialMedia = () => {
             <li className="mr-5 text-xs shrink-0">
                 <a
                     className="block hover:text-slate-200"
-                    href="www.linkedin.com/in/charis-elyasa"
+                    href="https://linkedin.com/in/charis-elyasa"
                     target="_blank"
                     rel="noreferrer noopener"
                     aria-label="LinkedIn (opens in a new tab)"
