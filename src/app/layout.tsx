@@ -62,16 +62,7 @@ export default function RootLayout(
             enableSystem
             disableTransitionOnChange
         >
-            {/*<div className="absolute right-2 top-2">*/}
-            {/*    <ModeToggle/>*/}
-            {/*</div>*/}
-            <div
-                className="mx-auto min-h-screen max-w-screen-xl px-6 py-12 md:px-12 md:py-20 lg:px-24 lg:py-0 font-inter"
-            >
-                <div className="lg:flex lg:justify-between lg:gap-4">
-                    {children}
-                </div>
-            </div>
+            {children}
         </ThemeProvider>
         </body>
         </html>
