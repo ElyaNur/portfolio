@@ -1,4 +1,5 @@
 import {useMemo} from "react";
+import {Badge} from "@/components/ui/badge";
 
 type TechnologiesList = {
     technology: string;
@@ -15,11 +16,9 @@ const Technologies = ({technologies}: { technologies: string[] }) => {
         <ul className="mt-2 flex flex-wrap" aria-label="Technologies used">
             {technologiesList.map(({technology, id}) => (
                 <li key={id} className="mr-1.5 mt-2">
-                    <div
-                        className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
-                    >
+                    <Badge variant="portfolio">
                         {technology}
-                    </div>
+                    </Badge>
                 </li>
             ))}
         </ul>

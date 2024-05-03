@@ -1,0 +1,156 @@
+[
+  {
+    "year": "2019",
+    "project": {
+      "name": "LENS (LECTURE PERFORMANCE MONITORING SYSTEM)",
+      "url": "http://lens.alphabetincubator.id"
+    },
+    "made_at": "Raharja University",
+    "build_with": [
+      "PHP",
+      "Codeigniter",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "JavaScript (JQuery)"
+    ],
+    "links": [
+      {
+        "name": "lens.alphabetincubator.id",
+        "url": "http://lens.alphabetincubator.id",
+        "github": null
+      }
+    ]
+  },
+  {
+    "year": "2020",
+    "project": {
+      "name": "Sistem Assasment Pegawai PT. Dua Benua",
+      "url": null,
+      "github": "https://github.com/Chariselyasa123/Sistem-pendukung-keputusan-SMART-Method-"
+    },
+    "made_at": "Raharja University",
+    "build_with": [
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "JavaScript (JQuery)"
+    ],
+    "links": []
+  },
+  {
+    "year": "2021",
+    "project": {
+      "name": "LSDDonation (Donation plugin for WordPress)",
+      "url": "https://lsdplugins.com"
+    },
+    "made_at": "LSD Plugins",
+    "build_with": [
+      "PHP",
+      "WordPress",
+      "MySQL"
+    ],
+    "links": [
+      {
+        "name": "lsdplugins.com/lsddonasi",
+        "url": "https://lsdplugins.com/lsddonasi-donasi-zakat-crowdfunding-wordpress-plugin/"
+      }
+    ]
+  },
+  {
+    "year": "2021",
+    "project": {
+      "name": "LWDonation (Donation plugin for WordPress)",
+      "url": "https://lokuswp.id"
+    },
+    "made_at": "LokusWP ID",
+    "build_with": [
+      "PHP",
+      "WordPress",
+      "MySQL",
+      "Node.js",
+      "Express.js",
+      "AWS Lamda",
+      "AWS API Gateway"
+    ],
+    "links": [
+      {
+        "name": "lokuswp.id/lwdonation-plugin-donasi-online",
+        "url": "https://lokuswp.id/lwcommerce-plugin-toko-online-gratis/"
+      }
+    ]
+  },
+  {
+    "year": "2021",
+    "project": {
+      "name": "E-Mountaineering",
+      "url": null,
+      "github": null
+    },
+    "made_at": "MAPALA RAHARJA",
+    "build_with": [
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "Inertia.js",
+      "Vue.js"
+    ],
+    "links": []
+  },
+  {
+    "year": "2022",
+    "project": {
+      "name": "Sistem Informasi Karyawan",
+      "url": null,
+      "github": null
+    },
+    "made_at": "RSUD Kota Tangerang",
+    "build_with": [
+      "PHP",
+      "Codeigniter",
+      "PostgreSQL",
+      "JavaScript (JQuery)"
+    ],
+    "links": []
+  },
+  {
+    "year": "2023",
+    "project": {
+      "name": "Sistem Informasi Karyawan",
+      "url": null,
+      "github": null
+    },
+    "made_at": "RSUD Kota Tangerang",
+    "build_with": [
+      "PHP",
+      "Laravel",
+      "Inertia",
+      "React.js",
+      "CI/CD"
+    ],
+    "links": []
+  },
+  {
+    "year": "2024",
+    "project": {
+      "name": "MCU (Medical Check Up) System",
+      "url": "https://sbsbisa.com",
+      "github": null
+    },
+    "made_at": "PT. SBS",
+    "build_with": [
+      "PHP",
+      "Laravel",
+      "Filament",
+      "Livewire"
+    ],
+    "links": [
+      {
+        "name": "sbsbisa.com",
+        "url": "https://sbsbisa.com"
+      }
+    ]
+  }
+]

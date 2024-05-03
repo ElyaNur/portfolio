@@ -9,7 +9,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 1,
         },
         {
-            url: 'https://acme.com/project-archive',
+            url: 'https://www.elyanur.com/project-archive',
             lastModified: new Date(),
             changeFrequency: 'monthly',
             priority: 0.8,

@@ -6,7 +6,10 @@ import {ThemeProvider} from "@/components/theme-provider";
 const inter = Inter({subsets: ["latin"], variable: "--inter"});
 
 export const metadata: Metadata = {
-    title: "Ahmad Charis Elyasa Hafidianto",
+    title: {
+        template: '%s | Ahmad Charis Elyasa Hafidianto',
+        default: 'Ahmad Charis Elyasa Hafidianto', // a default is required when creating a template
+    },
     description: "Ahmad Charis Elyasa Hafidianto's is a mid-level full-stack developer with a passion for building beautiful and functional websites.",
     applicationName: "portfolio",
     keywords: ["portfolio", "web developer", "full-stack developer", "software engineer"],
@@ -17,7 +20,12 @@ export const metadata: Metadata = {
         telephone: false,
     },
     openGraph: {
-        title: "Ahmad Charis Elyasa Hafidianto",
+        title: {
+            template: '%s | Ahmad Charis Elyasa Hafidianto',
+            default: 'Ahmad Charis Elyasa Hafidianto',
+        },
+        locale: "id_ID",
+        siteName: "Ahmad Charis Elyasa Hafidianto",
         description: "Ahmad Charis Elyasa Hafidianto's is a mid-level full-stack developer with a passion for building beautiful and functional websites.",
         url: "https://elyanur.com",
         type: "website",
@@ -29,6 +37,15 @@ export const metadata: Metadata = {
                 alt: "Ahmad Charis Elyasa Hafidianto's portfolio",
             },
         ],
+    },
+    twitter: {
+        card: "summary_large_image",
+        site: "@aceh_charis",
+        creator: "@aceh_charis",
+        title: {
+            template: '%s | Ahmad Charis Elyasa Hafidianto',
+            default: 'Ahmad Charis Elyasa Hafidianto',
+        },
     }
 };
 
